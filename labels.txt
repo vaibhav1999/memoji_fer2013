@@ -4,3 +4,6 @@ Happy
 Sad
 Surprise
 Neutral
+lonely
+sadder
+happier
